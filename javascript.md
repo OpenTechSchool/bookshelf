@@ -1,3 +1,13 @@
 # The JavaScript Bookshelf
 
-Nothing to see here yet. Feel free to add books by submitting [pull requests](https://help.github.com/articles/using-pull-requests). Please add the name of the book, the name of the author, and a short description.
+## Eloquent JavaScript: A Modern Introduction to Programming
+by Marijn Haverbeke 
+
+## JavaScript: The Good Parts
+by Douglas Crockford 
+
+## Javascript Patterns 
+by Stoyan Stefanov
+
+## JavaScript Web Applications
+by Alex MacCaw
