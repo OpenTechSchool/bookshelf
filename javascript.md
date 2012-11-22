@@ -3,11 +3,23 @@
 ## Eloquent JavaScript: A Modern Introduction to Programming
 by Marijn Haverbeke 
 
+TODO: Add a description for this book.
+
+---
+
 ## JavaScript: The Good Parts
 by Douglas Crockford 
 
+TODO: Add a description for this book.
+
+---
+
 ## Javascript Patterns 
 by Stoyan Stefanov
+
+TODO: Add a description for this book.
+
+---
 
 ## JavaScript Web Applications
 by Alex MacCaw
