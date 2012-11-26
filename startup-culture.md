@@ -50,5 +50,5 @@ by Clayton M. Christensen
 ## Creating Effective Teams: A Guide for Members and Leaders
 by Susan A. Wheelan
 
-## Strategy and the Fat Smoker; Doing What's Obvious But Not Easy
+## Strategy and the Fat Smoker. Doing What's Obvious But Not Easy
 by David H Maister
