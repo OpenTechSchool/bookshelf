@@ -14,6 +14,13 @@ TODO: Add a description for this book.
 
 ---
 
+## JavaScript: The Definitive Guide
+by David Flanagan
+
+TODO: Add a description for this book.
+
+---
+
 ## Javascript Patterns 
 by Stoyan Stefanov
 
