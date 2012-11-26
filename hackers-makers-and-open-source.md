@@ -55,3 +55,12 @@ by Bernard Golden
 
 ## The Success of Open Source
 by Steven Weber
+
+## Rebel Code: Linux And The Open Source Revolution
+by Glyn Moody
+
+## Free Software, Free Society: Selected Essays of Richard M. Stallman
+by Joshua Gay, Richard M. Stallman
+
+## Next Generation Democracy: What the Open-Source Revolution Means for Power, Politics, and Change
+by Jared Duval 
