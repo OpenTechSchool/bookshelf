@@ -1,4 +1,4 @@
-# Design
+# Design, webdesign and UX/ UI
 
 ## Universal Principles of Design
 by William Lidwell, Kritina Holden and Jill Butler
@@ -6,10 +6,10 @@ by William Lidwell, Kritina Holden and Jill Butler
 ## Design Is a Job
 by Mike Monteiro
 
-##Thinkertoys
+## Thinkertoys
 by Michael Michalko
 
-##Layout
+## Layout
 by Gavin Ambrose and Paul Harris
 
 ## The Elements of Typographic Style
@@ -36,10 +36,11 @@ by Karen McGrane
 ## The Elements of Content Strategy
 by Erin Kissane
 
-# UI / UX
-
 ## The Icon Handbook
 by John Hicks
 
 ## Responsive Web Design
 by Ethan Marcotte
+
+## Don't Make Me Think: A Common Sense Approach to Web Usability (2nd edition)
+by Steve Krug
