@@ -46,3 +46,9 @@ by David Ogilvy
 
 ## The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business
 by Clayton M. Christensen
+
+## Creating Effective Teams: A Guide for Members and Leaders
+by Susan A. Wheelan
+
+## Strategy and the Fat Smoker; Doing What's Obvious But Not Easy
+by David H Maister
