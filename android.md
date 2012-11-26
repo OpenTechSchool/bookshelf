@@ -1,6 +1,6 @@
 # Android
 
-Having with on Google's framework.
+Having with Google's framework.
 
 ## Beginning Android 4
 * Grant Allen
