@@ -17,3 +17,7 @@ Having with Google's framework.
 * 2011
 * 978-1-849513-50-0
 
+## Smashing Android UI
+* Juhani Lehtimaki
+* 978-1118387283
+* John Wiley & Sons
