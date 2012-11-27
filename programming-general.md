@@ -17,4 +17,14 @@ Language independant concepts and ideas, methods and ways of doing things and th
 * 978-0137081073
 * Robert C. Martin
 
+## Introduction To Algorithms, Third Edition (Paperback)
+* MIT Press
+* 9780262533058 
+* By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
+
+## The Pragmatic Programmer: From Journeyman to Master (Paperback)
+* Addison-Wesley Professional
+* 978-0201616224
+* Andrew Hunt
+
  
