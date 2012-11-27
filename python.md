@@ -6,3 +6,6 @@ By Mark Lutz
 
 You know about functional programming as well as OOP. You know yourself around PHP, Ruby, C++ or Java, then all you need to get started in Python is a cool project and this book. It covers all the basics of the language and is the best pocket reference to look stuff up quickly.
 
+## Python in a Nutshell: A Desktop Quick Reference
+* O'Reilly Media
+* 978-0596100469
