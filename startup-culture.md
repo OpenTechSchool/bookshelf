@@ -52,3 +52,10 @@ by Susan A. Wheelan
 
 ## Strategy and the Fat Smoker. Doing What's Obvious But Not Easy
 by David H Maister
+
+## Business Model Generation
+* by Alexander Osterwalder & Yves Pigneur
+* John Wiley & Sons
+* 978-0470876411
+
+explains the business model canvas, also available from http://businessmodelgeneration.com/
