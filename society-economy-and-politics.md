@@ -38,3 +38,12 @@ by Malcolm Gladwell
 
 ## The Big Switch: Rewiring the World, from Edison to Google
 by Nicholas Carr
+
+## A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century
+by Donna Jeanne Haraway
+
+## Simians, Cyborgs, and Women: The Reinvention of Nature
+by Donna Jeanne Haraway
+
+## The Second Self
+by Sherry Turkle
