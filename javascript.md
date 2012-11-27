@@ -21,6 +21,13 @@ TODO: Add a description for this book.
 
 ---
 
+## Professional JavaScript for Web Developers 3rd Edition
+by Nicholas Zakas
+
+An excellent book that goes over all the parts of JavaScript language in much detail. Written by an author of http://nczonline.net, an excellent blog on JavaScript. http://www.nczonline.net/blog/2012/01/09/now-available-professional-javascript-3rd-edition/
+
+---
+
 ## JavaScript Web Applications
 by Alex MacCaw
 
