@@ -17,6 +17,8 @@ Language independant concepts and ideas, methods and ways of doing things and th
 * 978-0137081073
 * Robert C. Martin
 
+In The Clean Coder: A Code of Conduct for Professional Programmers, legendary software expert Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship. This book is packed with practical advice‚ about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. Martin shows how to approach software development with honor, self-respect, and pride; work well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and understand that deep knowledge comes with a responsibility to act.
+
 ## Introduction To Algorithms, Third Edition (Paperback)
 * MIT Press
 * 9780262533058 
