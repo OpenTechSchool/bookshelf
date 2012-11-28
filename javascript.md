@@ -42,5 +42,19 @@ If you consider yourself an intermediate user of JavaScript and you'd like to st
 
 ---
 
+## Object-Oriented JavaScript
+by Stoyan Stefanov
+
+TODO: Add a description for this book.
+
+---
+
+## Secrets of the JavaScript Ninja
+by John Resig
+
+TODO: Add a description for this book.
+
+---
+
 Feel free to add books by submitting [pull requests](https://help.github.com/articles/using-pull-requests). Please add the name of the book, the name of the author, and a short description.
 
