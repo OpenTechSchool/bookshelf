@@ -2,7 +2,7 @@
 
 Learning and using Ruby not only for Rails projects.
 
-## Beginning Ruby: From Novice to Professional (2nd edition)
+## [Beginning Ruby: From Novice to Professional (2nd edition)](http://beginningruby.org/)
 * Peter Cooper
 * 2009
 * Apress
