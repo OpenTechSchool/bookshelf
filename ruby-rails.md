@@ -2,6 +2,12 @@
 
 Learning and using Ruby not only for Rails projects.
 
+## Beginning Ruby: From Novice to Professional (2nd edition)
+* Peter Cooper
+* 2009
+* Apress
+* 978-1430223634
+
 ## Ruby on Rails 3 tutorial
 * Michael Hartl
 * 2011
