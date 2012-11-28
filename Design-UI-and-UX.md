@@ -55,4 +55,3 @@ by Dan Cederholm
 
 ## DOM Scripting: Web Design with JavaScript and the Document Object Model
 by Jeremy Keith
->>>>>>> aaf1dd1c6bf66246a31a81fc508f52c1f88396dd

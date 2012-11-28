@@ -69,4 +69,3 @@ by Susan A. Wheelan
 
 ## Strategy and the Fat Smoker. Doing What's Obvious But Not Easy
 by David H Maister
->>>>>>> aaf1dd1c6bf66246a31a81fc508f52c1f88396dd
