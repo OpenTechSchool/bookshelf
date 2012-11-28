@@ -17,7 +17,7 @@ Language independant concepts and ideas, methods and ways of doing things and th
 * 978-0137081073
 * Robert C. Martin
 
-In The Clean Coder: A Code of Conduct for Professional Programmers, legendary software expert Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship. This book is packed with practical advice‚ about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. Martin shows how to approach software development with honor, self-respect, and pride; work well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and understand that deep knowledge comes with a responsibility to act.
+In The Clean Coder: A Code of Conduct for Professional Programmers, legendary software expert Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship. This book is packed with practical advice‚Äö about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. Martin shows how to approach software development with honor, self-respect, and pride; work well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and understand that deep knowledge comes with a responsibility to act.
 
 ## Introduction To Algorithms, Third Edition (Paperback)
 * MIT Press
@@ -29,4 +29,42 @@ In The Clean Coder: A Code of Conduct for Professional Programmers, legendary so
 * 978-0201616224
 * Andrew Hunt
 
- 
+## Growing Object Oriented Software, Guided by Test
+* Addison-Wesley Professional
+* 978-0321503626
+* Steve Freeman
+
+## Refactoring, improving the desing of existing code
+* Addison-Wesley Professional
+* 978-0201485677
+* Martin Fowler
+
+## xUnit Test Patterns: Refactoring Test Code 
+* Addison-Wesley Professional
+* 978-0131495050	
+* Gerard Meszaros
+
+## Refactoring to patterns
+* Addison-Wesley Professional
+* 978-0321213358
+* Joshua Kerievsky
+
+## Implementation patterns
+* Addison-Wesley Professional
+* 978-0321413093
+* Ken Beck
+
+## Analysis patterns, reusable object models
+* Addison-Wesley Professional
+* 978-0201895421
+* Martin Fowler
+
+## Apprenticeship patterns, Guidance for the Aspiring Software Craftsman
+* O'Reilly Media
+* 978-0596518387
+* Dave Hoover
+
+## Continuos integration, improving software quality and reducing risk
+* Addison-Wesley Professional
+* 978-0321336385
+* Paul M. Duvall
