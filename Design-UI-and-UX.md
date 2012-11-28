@@ -44,3 +44,9 @@ by Ethan Marcotte
 
 ## Don't Make Me Think: A Common Sense Approach to Web Usability (2nd edition)
 by Steve Krug
+
+## Bulletproof Web Design
+by Dan Cederholm
+
+## DOM Scripting: Web Design with JavaScript and the Document Object Model
+by Jeremy Keith
