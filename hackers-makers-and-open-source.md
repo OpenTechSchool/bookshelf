@@ -20,3 +20,55 @@ by Werner Heine, 1985, Rowolt-Verlag
 If you ever happen to come across this book, buy it - it is not printed anymore. It is an insightful book about the (german) hacker scene beginning of the 80s, its history, their ideals and methods and discusses the legal and moral questions around hacking and the "hacker revolution". And while the speed of our computers quadrupled, those topics are still as up to date as they were 30 years ago.
 
 Plus: this books reveals in chapter 3 where the term "Hacking" actually came from. See... now you gotta get it.
+
+
+## Makers
+by Cory Doctorow
+
+## Hackers
+by Steven Levy
+
+## In The Beginning Was The Command Line
+by Neal Stephenson 
+
+## Hack This: 24 Incredible Hackerspace Projects from the DIY Movement
+by John Baichtal
+
+## Make: Electronics (Learning by Discovery)
+by Charles Platt
+
+## Make: Arduino Bots and Gadgets: Six Embedded Projects with Open Source Hardware and Software (Learning by Discovery)
+by Tero Karvinen, Kimmo Karvinen
+
+## Making Things Talk: Using Sensors, Networks, and Arduino to see, hear, and feel your world 
+by Tom Igoe
+
+## The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
+by Eric Raymond
+
+## Producing Open Source Software. How to Run a Successful Free Software Project
+by Karl Fogel
+
+## Open Sources: Voices from the Open Source Revolution
+by Chris DiBona, Sam Ockman, Mark Stone, Brian Behlendorf, Scott Bradner, Jim Hamerly , Kirk McKusick, Tim O'Reilly, Tom Paquin, Bruce Perens, Eric Raymond, Richard Stallman, Michael Tiemann, Linus Torvalds, Paul Vixie, Larry Wall, Bob Young
+
+## Open Sources 2.0: The Continuing Evolution
+by Chris DiBona, Mark Stone, Danese Cooper
+
+## The Business and Economics of Linux and Open Source
+by Martin Fink
+
+## Succeeding with Open Source
+by Bernard Golden
+
+## The Success of Open Source
+by Steven Weber
+
+## Rebel Code: Linux And The Open Source Revolution
+by Glyn Moody
+
+## Free Software, Free Society: Selected Essays of Richard M. Stallman
+by Joshua Gay, Richard M. Stallman
+
+## Next Generation Democracy: What the Open-Source Revolution Means for Power, Politics, and Change
+by Jared Duval 
