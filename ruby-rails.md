@@ -1,6 +1,6 @@
-# Ruby & Ruby On Rail
+# Ruby & Ruby on Rails
 
-Learning and using Ruby for not only Rails projects.
+Learning and using Ruby not only for Rails projects.
 
 ## Ruby on Rails 3 tutorial
 * Michael Hartl
