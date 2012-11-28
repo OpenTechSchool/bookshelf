@@ -5,7 +5,7 @@ by Jason Fried & David Heinemeier Hansson
 
 You want to bootstrap your startup. This book cuts it down to the basics and covers all topics on why 37Signals became one of the most successful tech startups ever.
 
-## Founders at Work
+## Founders at Work : Stories of Startups' Early Days
 by Jessica Livingston
 
 A collection of interviews with founders from tech startups of the first dotcom bubble - from Paypal over hotmail to Firefox and SixApart. Really interesting and encouraging to read their stories and how they've struggeled.
@@ -30,8 +30,8 @@ by Guy Kawasaki
 ## Enchantment: The Art of Changing Hearts, Minds, and Actions
 by Guy Kawasaki
 
-## Delivering Happiness
-by Tony Hsieh, CEO of Zappos
+## Delivering Happiness: A Path to Profits, Passion, and Purpose
+by Tony Hsieh
 
 In this books tony describes his journey of funding and later running Zappos. And he describes the backgrounds about what makes zappos one of the best employers of the U.S. - spoiler: it is about the company culture. Read it, absorbe it and repeat it.
 
@@ -69,3 +69,10 @@ by Susan A. Wheelan
 
 ## Strategy and the Fat Smoker. Doing What's Obvious But Not Easy
 by David H Maister
+
+## Business Model Generation
+* by Alexander Osterwalder & Yves Pigneur
+* John Wiley & Sons
+* 978-0470876411
+
+explains the business model canvas, also available from http://businessmodelgeneration.com/

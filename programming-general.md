@@ -68,3 +68,8 @@ In The Clean Coder: A Code of Conduct for Professional Programmers, legendary so
 * Addison-Wesley Professional
 * 978-0321336385
 * Paul M. Duvall
+
+## Test Driven Development. By Example
+* Addison-Wesley Signature Series
+* 978-0321146533
+* Kent Beck 
