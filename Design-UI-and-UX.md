@@ -55,3 +55,42 @@ by Dan Cederholm
 
 ## DOM Scripting: Web Design with JavaScript and the Document Object Model
 by Jeremy Keith
+
+## Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules 
+by Jeff Johnson
+
+## About Face 3. The Essentials of Interaction Design
+by Alan Cooper, Robert Reimann and David Cronin
+ISBN: 978-0470084113
+
+## Prioritizing Web Usability
+by Jakob Nielsen, Hoa Loranger
+ISBN: 978-0321350312
+
+## Designing the Obvious. A Common Sense Approach to Web Application Design
+by Robert Hoekman, Jr.
+ISBN: 978-0321453457
+
+## The Design of Sites. Patterns for Creating Winning Web Sites
+by Douglas Van Duyne, James Landay, Jason Hong.
+ISBN: 978-0131345553
+
+## The Design of Everyday Things
+by Donald A. Norman
+ISBN: 978-0465067107
+
+## Designing Interfaces: Patterns for Effective Interaction Design
+by Jenifer Tidwell
+ISBN: 978-0596008031
+
+## Designing for Interaction: Creating Smart Applications and Clever Devices
+by Dan Saffer
+ISBN: 978-0321432063
+
+## Designing Interactions
+by Bill Moggridge
+ISBN: 978-0262134743
+
+## Envisioning Information
+by Edward R. Tufte
+ISBN: 978-0961392116
