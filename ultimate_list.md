@@ -194,7 +194,3 @@ by Douglas Coupland
 
 ## Tribes: We Need You to Lead Us
 by Seth Godin
-
-
-## Tribes: We Need You to Lead Us
-by Seth Godin
