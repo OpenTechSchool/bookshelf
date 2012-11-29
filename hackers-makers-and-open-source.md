@@ -72,3 +72,9 @@ by Joshua Gay, Richard M. Stallman
 
 ## Next Generation Democracy: What the Open-Source Revolution Means for Power, Politics, and Change
 by Jared Duval 
+
+## Being Geek: The Software Developer's Career Handbook
+by Michael Lopp
+
+## Managing Humans: Biting and Humorous Tales of a Software Engineering Manager 
+by Michael Lopp
