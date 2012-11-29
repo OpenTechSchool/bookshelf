@@ -73,3 +73,9 @@ In The Clean Coder: A Code of Conduct for Professional Programmers, legendary so
 * Addison-Wesley Signature Series
 * 978-0321146533
 * Kent Beck 
+
+## The Code Book
+* Anchor
+* 978-0385495325
+* Simon Singh
+
