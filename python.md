@@ -64,9 +64,9 @@ available online for free.
 * 4th Edition
 * O'Reilly Media
 
-Learn about Python's major built-in object types, such as numbers, lists, and dictionariesCreate and process objects using Python statements, and learn Python's general syntax modelStructure and reuse code using functions.
+Learn about Python's major built-in object types, such as numbers, lists, and dictionaries. Create and process objects using Python statements, and learn Python's general syntax model. Structure and reuse code using functions.
 
-##Python in a Nutshell
+## Python in a Nutshell
 * Alex Martelli
 * 2nd Edition
 * O'Reilly Media
