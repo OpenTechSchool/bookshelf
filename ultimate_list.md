@@ -184,13 +184,6 @@ by Douglas Coupland
 ## JPod
 by Douglas Coupland
 
-
-## Microserfs
-by Douglas Coupland
-
-## JPod
-by Douglas Coupland
-
 ## Tribes: We Need You to Lead Us
 by Seth Godin
 
