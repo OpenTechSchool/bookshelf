@@ -70,8 +70,3 @@ Learn about Python's major built-in object types, such as numbers,
 lists, and dictionaries. Create and process objects using Python
 statements, and learn Python's general syntax model. Structure and reuse
 code using functions.
-
-## Python in a Nutshell
-* Alex Martelli
-* 2nd Edition
-* O'Reilly Media
