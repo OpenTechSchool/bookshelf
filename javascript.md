@@ -56,5 +56,20 @@ TODO: Add a description for this book.
 
 ---
 
+
+## [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
+by Marijn Haverbeke
+
+TODO: Add a description for this book.
+
+---
+
+## [jQuery Fundementals](http://jqfundamentals.com/)
+by Rebecca Murphey
+
+TODO: Add a description for this book.
+
+---
+
 Feel free to add books by submitting [pull requests](https://help.github.com/articles/using-pull-requests). Please add the name of the book, the name of the author, and a short description.
 
