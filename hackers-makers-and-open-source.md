@@ -78,3 +78,13 @@ by Michael Lopp
 
 ## Managing Humans: Biting and Humorous Tales of a Software Engineering Manager 
 by Michael Lopp
+
+## [The Architecture of Open Source Applications](http://www.aosabook.org/)
+* Amy Brown, Greg Wilson (Editors)
+* 2012
+* 978-1257638017
+
+## [The Architecture of Open Source Applications, Volume II](http://www.aosabook.org/)
+* Amy Brown, Greg Wilson (Editors)
+* 2012
+* 978-1105571817
