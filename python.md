@@ -20,6 +20,13 @@ language and is the best pocket reference to look stuff up quickly.
 This book helps you to learn Python quick and easy. The HTML version is
 available online for free.
 
+## [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* Al Sweigart
+
+In this book, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand-no prior programming experience required. Once you've mastered the basics of programming, you'll create Python programs that effortlessly perform useful and impressive feats of automation. 
+
+Step-by-step instructions walk you through each program, and practice projects at the end of each chapter challenge you to improve those programs and use your newfound skills to automate similar tasks.
+
 ## Beginning Python: From Novice to Professional
 * Magnus Lie Hetland
 * 2008
