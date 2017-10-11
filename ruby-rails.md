@@ -27,3 +27,8 @@ Learning and using Ruby not only for Rails projects.
 * Manning Publications Co.
 * 978-1-935-18227-6
 
+## Learn to Program (2nd edition)(https://pragprog.com/titles/ltp2/learn-to-program-2nd-edition)
+* Chris Pine
+* 2014
+* The Pragmatic Bookshelf
+* 978-1-93435-636-4
